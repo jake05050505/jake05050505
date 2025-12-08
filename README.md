@@ -13,7 +13,7 @@ I mostly use Python (and prefer its simplicity & versatility over other language
   
 ### Projects
 - Final Project at UA92 - AI-powered fact-checking & credibility analysis software (for the contemporary issue of misinformation/disinformation on the web).
--- A chatbot interface using Next.js, programmed in TypeScript (TSX)
+-- A chatbot interface using Next.js, programmed in TypeScript (TSX), GPT implementation planned soon.
 ### Learning
 - Intermediate-Advanced Data Structures & Algorithms.
 - React
