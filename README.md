@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm <b>Jake</b>, a programmer and Computer Science student.
+I'm Jake, a programmer and Computer Science student.
 
 I mostly use Python (and prefer to use it over others), but have a fair amount of experience programming on the web (full-stack) - next.js, HTML/CSS/JS, express, SQL.
 
@@ -28,6 +28,7 @@ I mostly use Python (and prefer to use it over others), but have a fair amount o
 >- Rust,
 >- golang.
 
+<details>
 ## Everything else (the non-professional stuff)
 >### Music
 >- I've been playing the guitar for about 4 years (since August 2021), I mostly play metalcore.
@@ -48,3 +49,4 @@ I mostly use Python (and prefer to use it over others), but have a fair amount o
 >- Outer Wilds.
 >- Black Myth: Wukong.
 >- WUCHANG: Fallen Feathers.
+</details>
