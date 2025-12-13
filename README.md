@@ -38,6 +38,7 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 - Operating Systems.
 - Embedded Programming.
 - Object-oriented Software Design.
+- Networking.
 - Cyber Security - especially pen-testing and red-teaming.
 - Game Development (Unity?).
 - Game Modding.
