@@ -62,8 +62,8 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 </summary>
   
 ### Music
-- I listen to metalcore/deathcore music - Polaris, Currents, Invent Animate, Lorna Shore, Whitechapel, Shadow of Intent, LANDMVRKS.
-- I've been playing the guitar for about 4 years (since August 2021).
+- I listen to a lot of metal(core) music - Polaris, Currents, Invent Animate, Lorna Shore, Whitechapel, Shadow of Intent, LANDMVRKS.
+- I've been playing guitar since August 2021.
 - Interested in learning how to play the drums.
 
 ### Games
