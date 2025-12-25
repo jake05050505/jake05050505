@@ -23,7 +23,7 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 </details>
 
 
-<details open>
+<details>
 
 <summary>
   <h2>
