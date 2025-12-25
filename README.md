@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jake, a programmer and Computer Science student.
+I'm Jake, a programmer and Computer Science student based in Manchester.
 
 I mostly use Python (and prefer its simplicity & versatility over other languages), but have a fair amount of experience programming on the web (full-stack) - HTML/CSS/JS, express, SQL.
 
