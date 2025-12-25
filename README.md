@@ -12,7 +12,7 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 </summary>
   
 ### Projects
-- Final Project at UA92 - AI-powered fact-checking & credibility analysis tool (for the contemporary issue of misinformation/disinformation on the web) - A chatbot interface using Next.js, programmed in TypeScript (TSX), GPT implementation planned soon.
+- Final Project at UA92 - AI-powered fact-checking & credibility analysis tool (for the contemporary issue of misinformation/disinformation on the web) - A chatbot interface using a node.js/express.js backend and tailwindcss.
 ### Learning
 - Intermediate-Advanced Data Structures & Algorithms.
 - React
@@ -67,20 +67,20 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 - Interested in learning how to play the drums.
 
 ### Games
-#### Currently Playing: `Hollow Knight: Silksong (Act 3)`
+#### Currently Playing: `Celeste`
 #### Favourites
-- Dark Souls & Soulslikes.
-- Hollow Knight.
-- Roguelikes - Balatro, Risk of Rain 2.
+- Dark Souls & Soulslikes
+- Hollow Knight
+- Roguelikes - Balatro, Risk of Rain
 #### Games to play next
-- Nine Sols.
-- Celeste.
-- Clair Obscur: Expedition 33.
-- Ghost of Tsushima.
-- Ghost of Yōtei.
-- Megabonk.
-- Outer Wilds.
-- Black Myth: Wukong.
-- WUCHANG: Fallen Feathers.
+- Nine Sols
+- Celeste
+- Clair Obscur: Expedition 33
+- Ghost of Tsushima
+- Ghost of Yōtei
+- Megabonk
+- Outer Wilds
+- Black Myth: Wukong
+- WUCHANG: Fallen Feathers
 
 </details>
