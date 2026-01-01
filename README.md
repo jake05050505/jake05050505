@@ -1,16 +1,53 @@
 ## Hi there 👋
 
-<!--
-**jake05050505/jake05050505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jake, a programmer and Computer Science student based in Manchester.
 
-Here are some ideas to get you started:
+I mostly use Python (and prefer its simplicity & versatility over other languages), but have a fair amount of experience programming on the web (full-stack) - HTML/CSS/JS, SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+<summary>
+  <h2>
+    What I'm working on:
+  </h2>
+</summary>
+  
+### Projects
+- Final Project at UA92 - AI-powered fact-checking & credibility analysis tool (for the contemporary issue of misinformation/disinformation on the web) - A chatbot interface using a node.js/express.js backend and tailwindcss.
+- Writing up reflective technical report for final project.
+### Learning
+- Intermediate Data Structures & Algorithms
+- TailwindCSS
+- Express.js
+
+</details>
+
+
+<details>
+
+<summary>
+  <h2>
+    What's next?
+  </h2>
+</summary>
+
+### Planning to learn/study
+- Software Design fundamentals and patterns.
+- Secure Software Development.
+- Low-level Programming.
+- Operating Systems.
+- Embedded Programming.
+- Object-oriented Software Design.
+- Networking.
+- Cyber Security - especially pen-testing and red-teaming.
+- Game Development (Unity?).
+- Game Modding.
+- Mobile development (Swift).
+- C#,
+- Java,
+- Rust,
+- golang.
+
+### Future project ideas
+- AI-assisted learning platform for those with ADHD or similar conditions.
+
+</details>
