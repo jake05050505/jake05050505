@@ -17,7 +17,6 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 ### Learning
 - Intermediate Data Structures & Algorithms
 - TailwindCSS
-- Express.js
 
 </details>
 
