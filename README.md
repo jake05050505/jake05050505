@@ -47,6 +47,6 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 - golang.
 
 ### Future project ideas
-- AI-assisted learning platform for those with ADHD or similar conditions.
+- Accessible AI-assisted learning platform for those with ADHD or other learning difficulties.
 
 </details>
