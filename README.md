@@ -40,11 +40,14 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 - Cyber Security - especially pen-testing and red-teaming.
 - Game Development (Unity?).
 - Game Modding.
-- Mobile development (Swift).
+- Mobile development (Swift/React Native).
 - C#,
 - Java,
 - Rust,
 - golang.
+- PostgreSQL
+- MongoDB
+- Docker
 
 ### Future project ideas
 - Accessible AI-assisted learning platform for those with ADHD or other learning difficulties.
