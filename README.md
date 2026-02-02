@@ -12,8 +12,7 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 </summary>
   
 ### Projects
-- Final Project at UA92 - AI-powered fact-checking & credibility analysis tool (for the contemporary issue of misinformation/disinformation on the web) - A chatbot interface using a node.js/express.js backend and tailwindcss.
-- Writing up reflective technical report for final project.
+- UA92 UI/UX design coursework
 ### Learning
 - Intermediate Data Structures & Algorithms
 - TailwindCSS
