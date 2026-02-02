@@ -49,7 +49,10 @@ I mostly use Python (and prefer its simplicity & versatility over other language
 - MongoDB
 - Docker
 
-### Future project ideas
+### Project ideas
 - Accessible AI-assisted learning platform for those with ADHD or other learning difficulties.
+
+### Mod ideas
+- Windows Explorer "New x" mod (remove unnecessary options from new context menu)
 
 </details>
