@@ -2,7 +2,8 @@
 
 I'm Jake, a programmer and Computer Science student based in Manchester.
 
-I mostly use Python (and prefer its simplicity & versatility over other languages), but have a fair amount of experience programming on the web (full-stack) - HTML/CSS/JS, SQL.
+I mostly use Python, and have a fair amount of experience programming on the web (full-stack) - HTML/CSS/JS, SQL.
+I'm studying to become a software developer/engineer, particularly an embedded systems engineer.
 
 <details open>
 <summary>
