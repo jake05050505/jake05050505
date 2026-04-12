@@ -13,10 +13,10 @@ I'm studying to become a software developer/engineer, particularly an embedded s
 </summary>
   
 ### Projects
-- UA92 UI/UX design coursework
+- UA92 Applied Artificial Intelligence coursework
 ### Learning
 - Intermediate Data Structures & Algorithms
-- TailwindCSS
+- Machine Learning
 
 </details>
 
