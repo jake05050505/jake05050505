@@ -30,21 +30,23 @@ I'm studying to become a software developer/engineer, with a large interest in e
 </summary>
 
 ### Planning to learn/study
-- Software Design fundamentals and patterns.
-- Secure Software Development.
-- Low-level Programming.
-- Operating Systems.
-- Embedded Programming.
-- Object-oriented Software Design.
-- Networking.
-- Cyber Security - especially pen-testing and red-teaming.
-- Game Development (Unity?).
-- Game Modding.
-- Mobile development (Swift/React Native).
-- C#,
-- Java,
-- Rust,
-- golang.
+- Software Design fundamentals and patterns
+- Secure Software Development
+- Low-level Programming
+- Operating Systems
+- Embedded Programming
+- Object-oriented Software Design patterns
+- Networking
+- Cyber Security - especially pen-testing and red-teaming
+- Game Development (Unity?)
+- Game Modding
+- Mobile development (Swift/React Native)
+- C
+- C++
+- C#
+- Java
+- Rust
+- golang
 - PostgreSQL
 - MongoDB
 - Docker
