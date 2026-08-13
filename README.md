@@ -3,7 +3,7 @@
 I'm Jake, a programmer and Computer Science student based in Manchester.
 
 I mostly use Python, and have a fair amount of experience programming on the web (full-stack) - HTML/CSS/JS, SQL.  
-I'm studying to become a software developer/engineer, with a large interest in embedded systems and back-end engineering.
+I'm studying to become a software developer/engineer, with a large interest in embedded systems, performant programming, and back-end engineering.
 
 <details open>
 <summary>
@@ -13,10 +13,9 @@ I'm studying to become a software developer/engineer, with a large interest in e
 </summary>
   
 ### Projects
-- UA92 Applied Artificial Intelligence coursework
+None right now
 ### Learning
-- Intermediate Data Structures & Algorithms
-- Machine Learning
+- C++
 
 </details>
 
@@ -53,6 +52,7 @@ I'm studying to become a software developer/engineer, with a large interest in e
 
 ### Project ideas
 - Accessible AI-assisted learning platform for those with ADHD or other learning difficulties.
+- Small-scale quantitative trading demo.
 
 ### Mod ideas
 - Windows Explorer "New x" mod (remove unnecessary options from new context menu)
