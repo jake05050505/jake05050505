@@ -15,9 +15,10 @@ I'm open for work, and looking for positions which would complement my interests
 </summary>
   
 ### Projects
-None right now
+small [turn-based game](https://github.com/jake05050505/turn-based-game) in C++
 ### Learning
 - C++
+- Software design patterns
 
 </details>
 
@@ -43,14 +44,12 @@ None right now
 - Game Development (Unity?)
 - Game Modding
 - Mobile development (Swift)
-- C
 - C++
 - C#
 - Rust
-- golang
 - PostgreSQL
-- MongoDB
 - Docker
+- Kubernetes
 
 ### Project ideas
 - Accessible AI-assisted learning platform for those with ADHD or other learning difficulties
