@@ -2,7 +2,7 @@
 
 I'm Jake, a programmer and Computer Science graduate (BSc Hons) based in Manchester, United Kingdom.
 
-I mostly use Python, and have a bit of experience with web programming - HTML/CSS/JS, SQL.
+I mostly use Python/C++, and have a bit of experience with web programming - HTML/CSS/JS, SQL.
 I'm studying to become a software developer/engineer, with a large interest in embedded systems, performant programming, and back-end engineering.
 I'm open for work, and looking for positions which would complement my interests in physics and mathematics & statistics, from physics engines to quantitative trading.
 
