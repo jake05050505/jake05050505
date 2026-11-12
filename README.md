@@ -15,7 +15,8 @@ I'm open for work, and looking for positions which would complement my interests
 </summary>
   
 ### Projects
-small [turn-based game](https://github.com/jake05050505/turn-based-game) in C++
+- express.js tinyurl clone
+- small [turn-based game](https://github.com/jake05050505/turn-based-game) in C++
 ### Learning
 - C++
 - Software design patterns
@@ -52,6 +53,8 @@ small [turn-based game](https://github.com/jake05050505/turn-based-game) in C++
 - Kubernetes
 
 ### Project ideas
+- express.js tinyurl clone
+- markdown to html parser
 - Accessible AI-assisted learning platform for those with ADHD or other learning difficulties
 - Small-scale quantitative trading demo
 
