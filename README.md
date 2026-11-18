@@ -14,16 +14,26 @@ I'm open for work, and looking for positions which would complement my interests
 
 In descending order of experience:
 ## Languages
-- Python (>3.11)
-- JavaScript/TypeScript (ES6)
-- c++17 (MSVC/g++)
-- SQL (SQLite3/MySQL)
+- Python (since 3.10)
+- JavaScript
+- C++17 (MSVC/g++)
+- TypeScript
+- SQL
 - PHP
 - Lua
-- Assembly
+- x86-64 Assembly
 
 ## Tools/Frameworks
+### Markup/Stylesheets
+- HTML
+- CSS
+- TailwindCSS
+- Bootstrap
+### Database
 - MongoDB
+- SQLite/SQLite3
+- MySQL
+- PHPMyAdmin
 ### Python
 - NumPy
 - pandas
@@ -34,6 +44,9 @@ In descending order of experience:
 - Node.js
 - Express.js
 - React
+- bun
+- Next.js
+- Vue.js
 
 </details>
 
