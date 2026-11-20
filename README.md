@@ -39,6 +39,7 @@ In descending order of experience:
 - pandas
 - Matplotlib
 - seaborn
+- Scikit-learn
 - PyAutoGUI
 ### JavaScript/TypeScript
 - Node.js
